@@ -5,20 +5,16 @@ This repo is not finished yet. My goal is to build a simple app with Flutter to 
 **Be advised that this is not a tutorial. Is just my way of taking notes.**
 
 My flutter doctor:
->[✓] Flutter (Channel stable, 2.10.5, on macOS 12.5.1 21G83 darwin-arm, locale en-BR)
->
->[✓] Android toolchain - develop for Android devices (Android SDK version 32.1.0-rc1)
->
->[✓] Xcode - develop for iOS and macOS (Xcode 13.4.1)
->
->[✓] Chrome - develop for the web
->[✓] Android Studio (version 2021.1)
->
->[✓] VS Code (version 1.70.2)
->
->[✓] Connected device (2 available)
->
->[✓] HTTP Host Availability
+```Text
+[✓] Flutter (Channel stable, 2.10.5, on macOS 12.5.1 21G83 darwin-arm, locale en-BR)
+[✓] Android toolchain - develop for Android devices (Android SDK version 32.1.0-rc1)
+[✓] Xcode - develop for iOS and macOS (Xcode 13.4.1)
+[✓] Chrome - develop for the web
+[✓] Android Studio (version 2021.1)
+[✓] VS Code (version 1.70.2)
+[✓] Connected device (2 available)
+[✓] HTTP Host Availability
+```
 
 ## Getting started
 
